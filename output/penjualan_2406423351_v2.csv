@@ -1,0 +1,8 @@
+Nomor,Kode_Barang,Nama_Barang,Harga_Beli,Jenis,Harga_jual,Keuntungan
+1,C001,Minyak,23000,A3,25300.0,2300.0
+2,C002,Telur,25000,A3,27500.0,2500.0
+3,C003,Rokok,35000,A4,42000.0,7000.0
+4,C004,Beras,75000,A3,82500.0,7500.0
+5,C005,Mie Instan ,3500,A3,3850.0,350.0
+6,C006,Shampoo,15000,A1,15000.0,0.0
+7,C007,Sabun Muka,25000,A1,25000.0,0.0
